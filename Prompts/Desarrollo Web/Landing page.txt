@@ -1,0 +1,234 @@
+Crea una landing page profesional para "ASOCIACIÓN EVAN", 
+una empresa de fabricación artesanal y personalizada de muebles de madera premium.
+
+=== INFORMACIÓN EMPRESA ===
+Nombre: Asociación EVAN
+Sector: Fabricación de muebles de madera artesanales y a medida
+Ubicación: Colombia (Huila)
+Mercado: B2B y B2C - Clientes corporativos, diseñadores, particulares
+Propuesta valor: Diseño custom 100%, maderas nobles certificadas, acabados premium, sostenibilidad
+
+=== DISEÑO VISUAL - ELIGE UNA OPCIÓN ===
+
+OPCIÓN 1: CLAYMORFISMO MODERNO (Recomendado - Tendencia 2024)
+- Colores: Fondo crema #FAFAF8, Madera #8B6F47, Acentos #D4A574, Oscuro #3E2723
+- Formas: Redondeadas (border-radius 24px), suaves, orgánicas
+- Sombras: Suaves (blur 8-12px), múltiples capas, efecto 3D suave
+- Tipografía: Playfair Display (títulos elegantes), Inter (body limpio)
+- Hover effects: Elevación +4px, cambio de color a madera más clara
+- Vibe: Moderno, amigable, táctil, profesional
+
+OPCIÓN 2: SKEUOMORFISMO PREMIUM
+- Colores: Negro #2C2C2C, Madera veteada (texturas realistas), Oro #D4AF37, Plata #C0C0C0
+- Texturas: Maderas reales, herrajes metálicos, relieve 3D pronunciado
+- Sombras: Fuertes y bien definidas, inset shadows para profundidad
+- Tipografía: Bodoni/Garamond (títulos lujosos), Lora (body elegante)
+- Vibe: Lujoso, artesanal, premium, sofisticado
+
+OPCIÓN 3: MINIMALISMO MODERNO + ACENTOS MADERA
+- Colores: Blanco #FFFFFF, Gris claro #F9F7F4, Madera acento #9B7B5F, Oscuro #1F2937
+- Espacio: Abundante whitespace, líneas limpias, geométrico
+- Sombras: Mínimas (2-4px), casi imperceptibles
+- Tipografía: Inter (limpio y moderno), Poppins (detalles)
+- Vibe: Contemporáneo, profesional, directo, tech-friendly
+
+OPCIÓN 4: ART DÉCO + MADERA LAMINADA
+- Colores: Negro #1A1A1A, Crema #FFFACD, Oro #D4AF37, Madera oscura #5C4033
+- Estilo: Líneas geométricas doradas, patrones simétricos, elegancia vintage
+- Tipografía: Playfair Display (títulos decorativos), Montserrat (body)
+- Vibe: Sofisticado, histórico, lujoso, ejecutivo
+
+OPCIÓN 5: DARK MODE MADERA NATURAL
+- Colores: Fondo oscuro #1F2937, Madera clara #D4A574, Ámbar/Oro #F59E0B
+- Contraste: Alto para accesibilidad, texturas madera iluminadas
+- Tipografía: Playfair Display, Inter
+- Vibe: Moderno, nocturno, sofisticado, premium
+
+=== SECCIONES REQUERIDAS (Completas) ===
+
+1. HEADER/NAVBAR
+   - Logo EVAN con pequeño icono de madera
+   - Navegación: Inicio | Productos | Proceso | Nosotros | Contacto
+   - CTA principal: "Solicitar Catálogo" (botón destacado)
+   - Toggle Dark/Light Mode opcional
+   - Responsive hamburger en mobile
+
+2. HERO SECTION
+   - Headline principal: "Muebles de Madera Artesanales Personalizados"
+   - Subheadline: "Diseño único, calidad premium, maderas nobles certificadas"
+   - Imagen/Video background: Madera hermosa o video proceso
+   - 2 CTA buttons: "Ver Galería" + "Cotizar Ahora"
+   - Scroll indicator animado
+
+3. ABOUT / PRESENTACIÓN (Sección "Quiénes Somos")
+   - Breve historia de Asociación EVAN (máx 3 líneas)
+   - Valores: Artesanía | Sostenibilidad | Personalización | Calidad
+   - Números: 50+ años tradición | 1000+ proyectos | 30+ tipos madera
+   - Imagen de equipo o taller (profesional)
+
+4. GALERÍA DE PRODUCTOS
+   - Grid 3 columnas (responsive: 1 mobile, 2 tablet, 3 desktop)
+   - Categorías con filtros: Mesas | Sillas | Cabeceros | Libreros | Armarios | Custom
+   - Cards con:
+     * Imagen del producto (hover: zoom)
+     * Nombre + tipo madera
+     * Descripción breve
+     * "Ver detalles" → Modal con specs técnicas
+   - Mínimo 8 productos reales
+   - Efecto hover: suave elevación + cambio color
+
+5. PROCESO PRODUCTIVO (Timeline interactivo)
+   - 6 pasos: Diseño → Selección Madera → Mecanizado → Ensamblaje → Acabado → Envío
+   - Iconografía clara + descripción de cada paso
+   - Animación al scroll (fade-in + slide)
+   - Timeline vertical (mobile) horizontal (desktop)
+
+6. ESPECIFICACIONES TÉCNICAS (Sección detallada)
+   - TIPOS DE MADERA:
+     * Nogal negro americano - Dureza Janka 1010 - FSC Certificado
+     * Roble europeo - Dureza 1290 - Resistente agua/humedad
+     * Caoba - Dureza 800 - Veteado único
+     * Pino premium - Dureza 690 - Sostenible local
+   - SISTEMAS DE UNIÓN: Espigas clásicas | Colas de milano | Herrajes premium
+   - ACABADOS: Poliuretano mate/brillo | Cera natural | Óleo danés | Barniz tradicional
+   - Tolerancias: ±2mm precisión
+   - Garantía: 10 años estructural
+   - Tiempo producción: 4-8 semanas según complejidad
+
+7. PORTFOLIO / PROYECTOS DESTACADOS
+   - 6-8 casos exitosos con:
+     * Fotografía profesional (slider/grid)
+     * Nombre proyecto
+     * Cliente (empresa/particular)
+     * Materiales utilizados
+     * Breve descripción del reto/solución
+   - Filtros: Residencial | Comercial | Corporativo | Custom
+
+8. TESTIMONIOS (Carrusel)
+   - 5-6 testimonios de clientes satisfechos
+   - Formato: Foto avatar | Nombre | Empresa | Rating ⭐⭐⭐⭐⭐ | Cita corta
+   - Autoplay carousel con navegación manual
+   - Efecto fade smooth
+
+9. PRECIOS / COTIZACIÓN
+   - Tabla comparativa 3 opciones:
+     * ESTÁNDAR - Modelos pre-diseñados - Desde $X
+     * PERSONALIZADO - Custom a medida - Presupuesto
+     * CORPORATIVO - Grandes proyectos - Contactar
+   - Botón "Solicitar Presupuesto" en cada opción
+   - FAQ accordion debajo (preguntas frecuentes 5-6)
+
+10. CONTACTO / CTA FINAL
+    - Formulario: Nombre | Email | Teléfono | Proyecto | Mensaje
+    - Validación en tiempo real
+    - Datos contacto: 
+      * Teléfono WhatsApp (clickeable)
+      * Email (link mailto)
+      * Ubicación Google Maps embebido
+    - Newsletter signup optional
+    - Links rápidos importantes
+
+11. FOOTER
+    - Logo EVAN
+    - Links: Inicio | Productos | Blog | Contacto | Política Privacidad
+    - Redes sociales (Instagram, Facebook, LinkedIn)
+    - Copyright y datos empresa
+    - Newsletter signup
+
+=== CARACTERÍSTICAS TÉCNICAS LOVABLE ===
+
+Framework: React 18+ (default Lovable)
+Styling: Tailwind CSS 3+ (completo)
+Componentes: shadcn/ui (buttons, modals, cards, forms)
+Iconografía: Lucide React icons
+Animaciones: Framer Motion (smooth scrolls, hover effects)
+Tipografía: Google Fonts integrados
+Responsive: Mobile-first approach
+SEO: Meta tags, Open Graph
+Accesibilidad: WCAG 2.1 AA compliance
+Performance: Lazy loading imágenes, optimización
+
+=== PALETA DE COLORES (Claymorfismo recomendado) ===
+
+Primary: #8B6F47 (Madera media)
+Secondary: #D4A574 (Madera clara)
+Accent: #C9A961 (Oro suave)
+Dark: #3E2723 (Madera oscura)
+Light: #F5DEB3 (Crema)
+Neutral: #E8E4E0 (Gris cálido)
+White: #FFFFFF
+Error: #DC2626
+Success: #16A34A
+
+=== TIPOGRAFÍA RECOMENDADA ===
+
+Heading 1-2: Playfair Display 700 (serif elegante)
+Heading 3-4: Poppins 600 (sans moderno)
+Body: Inter 400 (legible, profesional)
+Caption: Poppins 500 italic (detalles)
+
+=== COMPONENTES INTERACTIVOS ===
+
+✅ Product filter por categoría (click en botones)
+✅ Modal lightbox para detalles productos
+✅ Carrusel testimonios (autoplay + manual nav)
+✅ Timeline interactivo proceso
+✅ Formulario contacto con validación
+✅ FAQ accordion (expandible)
+✅ Precio toggleable (mostrar/ocultar)
+✅ Smooth scroll navigation
+✅ Hover effects elegantes en todos elementos
+✅ Dark mode toggle si aplica
+
+=== IMÁGENES / CONTENIDO PLACEHOLDER ===
+
+Hero section: Imagen madera de grano fino premium
+Galería productos: 8 productos diferentes muebles
+About: Foto equipo o taller artesanal
+Portfolio: 6-8 proyectos variados
+Testimonios: 5-6 clientes diferentes
+
+Puedo usar placeholders profesionales de Unsplash/Pexels o esperar a que proporciones imágenes reales.
+
+=== COMPORTAMIENTO RESPONSIVE ===
+
+Mobile (320px+):
+- 1 columna en grillas
+- Navbar hamburger
+- Hero headline más pequeño
+- Botones full-width
+- Formularios optimizados toque
+
+Tablet (768px+):
+- 2 columnas en grillas
+- Navbar normal
+- Hover effects completos
+- Tipografía escalada
+
+Desktop (1024px+):
+- 3-4 columnas
+- Todas animaciones activas
+- Máximo tamaño tipografía
+- Efectos parallax sutiles
+
+=== INTEGRACIONES OPCIONALES ===
+
+- Google Maps (ubicación)
+- WhatsApp chat button (flotante derecha)
+- Calendly (agendar citas)
+- Google Analytics / Tag Manager
+- Formspree o similar (form submissions)
+- Newsletter (Mailchimp, Brevo)
+
+=== REQUISITOS FINALES ===
+
+✓ Landing page 100% funcional
+✓ Todos secciones implementadas
+✓ Responsive perfecto mobile/tablet/desktop
+✓ Animaciones suaves y elegantes
+✓ Formularios con validación
+✓ Imágenes optimizadas
+✓ SEO básico incluido
+✓ Código limpio y comentado
+✓ Listo para desplegar a producción
+✓ Dark mode incluido si aplica
