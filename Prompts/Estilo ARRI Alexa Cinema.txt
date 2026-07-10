@@ -1,0 +1,42 @@
+Hollywood feature film look.
+
+Captured on:
+
+ARRI Alexa 35
+
+ARRI Signature Prime 47mm
+
+Large Format Sensor
+
+Open Gate Recording
+
+Color Science:
+ARRI LogC4
+
+Film Emulation:
+Kodak 2383
+
+Lighting:
+Natural Golden Hour
+Volumetric Rays
+Practical Warm Lights
+Global Illumination
+
+Motion:
+Cinema Dolly
+Slow Push-in
+Rack Focus
+Focus Pulling
+Steadicam
+
+Rendering:
+Physically Based Rendering
+Subsurface Scattering
+Ray Traced GI
+Ultra HDR
+Organic Film Grain
+High Dynamic Range
+Ultra Sharp Eyes
+
+Negative Prompt:
+Digital look, smartphone appearance, CGI, overprocessed HDR.

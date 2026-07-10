@@ -1,0 +1,48 @@
+Luxury fashion editorial inspired by Vogue, Harper's Bazaar and Dior campaigns.
+
+An extraordinarily beautiful Latina woman enjoying Colombian specialty coffee inside an iconic luxury coffee house in Pitalito.
+
+Fashion photography with premium composition.
+
+Wardrobe:
+Minimalist white dress
+Luxury gold accessories
+Natural makeup
+Healthy glowing skin
+
+Lighting:
+Large octabox simulation
+Soft fill light
+Golden Rim Light
+Natural Window Light
+Volumetric Dust Particles
+
+Camera:
+Canon EOS R5
+RF 85mm f/1.2L
+ISO 100
+f/1.4
+
+Composition:
+Rule of Thirds
+Negative Space
+Luxury Editorial Composition
+
+Color Grading:
+Kodak Vision3
+Warm Earth Tones
+Elegant Browns
+Natural Greens
+Soft Cream Whites
+
+Rendering:
+8K HDR
+Photorealistic
+Physically Based Rendering
+Ray Tracing
+Ultra Detailed Eyes
+Natural Skin Texture
+Individual Hair Simulation
+
+Negative Prompt:
+Fashion mannequin appearance, unrealistic skin, cartoon, anime, CGI, deformed hands, duplicated limbs, blurry background artifacts.

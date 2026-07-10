@@ -1,0 +1,37 @@
+Minimal luxury commercial inspired by Apple.
+
+Clean architecture.
+Large windows.
+Minimalist furniture.
+Neutral palette.
+
+The woman enjoys Colombian coffee while natural light gently illuminates her face.
+
+Camera:
+Sony FX3
+50mm Cinema Lens
+
+Lighting:
+Soft Diffusion
+Natural Bounce
+Volumetric Lighting
+
+Motion:
+Slow Motion
+120 fps
+Perfect Stabilization
+Macro Steam Details
+
+Rendering:
+Ultra Clean
+Minimalistic
+Elegant
+Physically Accurate
+
+Color:
+Neutral Whites
+Warm Woods
+Natural Skin
+
+Negative Prompt:
+Clutter, excessive decoration, noisy background, artificial lighting.

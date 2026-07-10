@@ -1,0 +1,41 @@
+Luxury fragrance advertisement inspired by Chanel, Dior and Louis Vuitton.
+
+Elegant Colombian coffee boutique.
+
+The woman slowly lifts a porcelain cup.
+
+Steam elegantly surrounds her face.
+
+Golden particles floating in sunlight.
+
+Soft hair movement.
+
+Natural elegance.
+
+Camera:
+RED V-Raptor XL
+
+Lens:
+Zeiss Supreme Prime 85mm
+
+Lighting:
+Soft Beauty Light
+Golden Rim Light
+Volumetric Atmosphere
+
+Rendering:
+Hyperrealism
+Luxury Lighting
+Natural Skin Texture
+Hair Simulation
+PBR
+Ray Tracing
+
+Color:
+Warm Ivory
+Dark Coffee Brown
+Emerald Green
+Golden Highlights
+
+Negative Prompt:
+Plastic skin, exaggerated makeup, AI artifacts, unrealistic reflections.

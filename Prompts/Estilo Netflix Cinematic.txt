@@ -1,0 +1,51 @@
+Hollywood cinematic frame inspired by Netflix premium productions.
+
+A young Latina woman enjoying Colombian coffee inside an elegant coffee house in Pitalito.
+
+Mood:
+Emotional
+Elegant
+Premium
+Relaxing
+
+Camera Movement:
+Slow Dolly In
+Slider
+Gimbal
+Steadicam
+Parallax Motion
+
+Lens:
+Sony A7R V
+50mm GM f/1.2
+
+Lighting:
+Golden Hour
+Volumetric Light
+Cinematic Practical Lights
+Soft Shadows
+Global Illumination
+
+Film Look:
+Kodak Vision3 250D
+ARRI Alexa Color Science
+Cinematic Contrast
+
+Rendering:
+Ultra Realistic
+PBR
+RTX Ray Tracing
+High Dynamic Range
+Natural Motion Blur
+Depth of Field
+
+Facial Animation:
+Micro Expressions
+Natural Eye Movement
+Authentic Smile
+Breathing Simulation
+Hair Physics
+Steam Physics
+
+Negative Prompt:
+CGI, robotic movement, uncanny valley, oversharpening, artificial smile, stiff pose.

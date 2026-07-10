@@ -1,0 +1,54 @@
+Luxury coffee commercial similar to Nespresso.
+
+Macro cinematic shots.
+
+Sequence:
+
+Extreme close-up of coffee beans.
+
+Slow roasting smoke.
+
+Espresso extraction.
+
+Crema formation.
+
+Steam swirling naturally.
+
+Woman smiling while smelling coffee.
+
+Close-up on eyes.
+
+Close-up on lips.
+
+Slow sip.
+
+Natural emotional reaction.
+
+Camera:
+Sony Venice 2
+
+Lens:
+Cooke Anamorphic 50mm
+
+Lighting:
+Warm Key Light
+Back Light
+Practical Warm Lamps
+
+Rendering:
+Hyperrealistic
+Steam Simulation
+Coffee Foam Simulation
+Micro Reflections
+PBR
+8K HDR
+Ray Tracing
+
+Color:
+Dark Browns
+Gold
+Cream
+Natural Wood
+
+Negative Prompt:
+Artificial steam, unrealistic crema, fake reflections.

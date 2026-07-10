@@ -1,0 +1,41 @@
+Ultra photorealistic editorial photography inspired by Leica SL3 and Summilux 50mm ASPH.
+
+A breathtakingly beautiful 26-year-old Latina woman sits inside an exclusive specialty coffee shop in Pitalito, Huila, Colombia. Scandinavian minimalist architecture mixed with premium Colombian coffee culture, handcrafted wood furniture, lush tropical plants, artisan ceramic cups, premium coffee beans, modern espresso station and soft natural interior design.
+
+The subject wears an elegant beige linen dress with subtle gold jewelry. She gently holds a handcrafted ceramic cup while appreciating the aroma of freshly brewed Colombian specialty coffee.
+
+Lighting:
+• Natural morning window light
+• Soft bounce illumination
+• Volumetric light rays
+• Physically accurate reflections
+• Global Illumination
+• Ambient Occlusion
+• Subsurface Scattering
+• Ray Traced Reflections
+
+Camera:
+Leica SL3
+Summilux-M 50mm f/1.4 ASPH
+f/1.8
+ISO 64
+1/250s
+
+Color Science:
+Leica Natural Look
+Soft Contrast
+Warm White Balance
+Kodak Portra 400 simulation
+
+Rendering:
+PBR
+Hyperrealism
+Micro Skin Details
+Visible Skin Pores
+Natural Hair Fibers
+Realistic Coffee Steam Simulation
+Organic Bokeh
+Award-winning Editorial Photography
+
+Negative Prompt:
+CGI, plastic skin, wax skin, overprocessed HDR, extra fingers, blurry eyes, malformed anatomy, AI artifacts, oversaturated colors, low detail.
