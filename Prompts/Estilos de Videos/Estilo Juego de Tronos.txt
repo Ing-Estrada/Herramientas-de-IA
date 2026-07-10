@@ -1,0 +1,27 @@
+Create a 60-90 second cinematic storytelling sequence in Google Flow based on attached reference image transformed into HBO Game of Thrones Targaryen aesthetic. Format: 16:9 widescreen, 4K minimum (3840x2160), 24fps cinema, DCI-P3 HDR color space.
+
+FIVE-ACT NARRATIVE SEQUENCE:
+
+Act I (0-15s): Fade in from black with volumetric mist and candlelight. Slow push-in camera toward subject's face showing ethereal fog dissipating. Music cue: deep orchestral strings with Targaryen theme. Text overlay: "House Targaryen" elegant serif font. Subject gazes into distance with prophetic expression. Lighting transitions cool blue to warm golden firelight.
+
+Act II (15-30s): Wide shot revealing full Targaryen regalia and throne. 360-degree tracking orbit camera around seated subject. Platinum hair catches candlelight luminescent glow. Crimson silk drapes unfold with subtle wind simulation. Dragon banners and Dragonstone architecture enter frame. Music intensifies with percussion and dragonlord theme. Text: "The Blood of Old Valyria" fades in-out. Candlelight flickers with realistic flame physics.
+
+Act III (30-45s): Close-up on subject's face - violet-silver slit-pupil eyes intensify with subtle magical aura lighting effect. Slow-motion head turn maintaining eye contact. Volumetric light rays through stone architecture. Subject brings Valyrian steel chalice with crimson wine toward lips in graceful motion. Realistic liquid reflection. Expression reveals cold aristocratic confidence. Music crescendo with orchestral swells. Text: "Dragonstone" dissolves into architecture. Color grading shifts cooler emphasizing otherworldly presence.
+
+Act IV (45-60s): Pull back to wide environmental reveal: complete Dragonstone sanctuary with subject focal point. Slow descending camera (crane down) revealing architectural depth. Ancient library shelves, fireplace roaring, Gothic stone carvings, dragon motifs, crystalline Dragonstone minerals catching light. Subject silhouetted against firelit archway with dramatic backlighting. Fog and mist swirl with subtle motion. Black roses and thorned vines sway. Music maintains dramatic tension with understated strings and deep bass. Text: "Fire and Blood" in Targaryen emblem style.
+
+Act V (60-90s): Slow zoom into subject's eyes maintaining sharp focus. Violet-silver iris fills frame with ethereal quality. Pupil slit-quality pronounced. Candlelight reflects perfectly in eye surface. Environmental scene blurs into bokeh background. Subject's expression shifts from prophetic distance to direct camera engagement suggesting untapped power. Music resolves to single sustained orchestral note. Final text sequence: "House Targaryen" → "Season of Dragons" → custom text. Fade to black with lingering candlelight and smoke. Ambient sound: crackling fireplace, distant wind, subtle mystical tone.
+
+CAMERA MOVEMENTS: Act I slow push-in dolly (3-5mm/sec), Act II 360-degree orbit tracking, Act III subtle facial push-in, Act IV descending crane movement, Act V zoom to iris with optical zoom. All movements maintain shallow depth of field with bokeh evolution.
+
+TRANSITIONS: Act I-II dissolve with mist effect (0.5s), Act II-III light flash cut (0.3s), Act III-IV slow fade-through with color shift (0.8s), Act IV-V rack focus transition (1s), Act V-Black fade with lingering glow (1.5s).
+
+ANIMATIONS: Hair subtle wind-blown motion, fabric slow-motion silk drape, chalice liquid realistic surface tension, flames organic flicker with color temperature, smoke/fog volumetric motion, jewelry specular highlight tracking, eyes pupil dilation responding to light.
+
+AUDIO: Orchestral Game of Thrones Targaryen theme with Act I ambient strings, Act II percussion and dramatic swell, Act III chamber strings mystical undertones, Act IV full orchestral, Act V single sustained note. Continuous crackling fireplace ambience, faint wind, subtle mystical ethereal tone throughout.
+
+VISUAL EFFECTS: Volumetric light rays through candlelight, subsurface scattering on silk, realistic jewelry reflections, ambient occlusion in stone, minimal chromatic aberration, natural motion blur, shallow depth of field f/1.3 equivalent bokeh, HBO Game of Thrones color grading (crushed blacks, lifted shadows, warm-cool contrast, desaturated midtones, selective red-gold saturation), Kodak Vision 3 film grain, subtle vignette.
+
+TEXT OVERLAYS: Gold (#D4AF37) elegant serif font, center-weighted, Act I "House Targaryen" (2s fade-in, 2s hold, 2s fade-out), Act II "The Blood of Old Valyria" (2s in, 3s hold, 2s out), Act IV "Dragonstone" (1s in, 1s hold, 1s out), Act V "Fire and Blood" (1s in, 2s hold), transition to "Season of Dragons" (1s in, 2s hold), final text (1s in, 1s out).
+
+DELIVERY: 16:9 primary (4K 3840x2160), 9:16 vertical for mobile, 1:1 square for social. MP4/WebM/GIF formats. Google Flow native optimization for smooth playback. Maintain reference image facial characteristics throughout while applying Targaryen transformation. HBO prestige television quality, masterpiece visual effects, zero CGI artifacts, award-winning commercial production standard, broadcast-ready delivery.
