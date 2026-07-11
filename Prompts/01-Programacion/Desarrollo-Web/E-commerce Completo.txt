@@ -1,0 +1,24 @@
+Actúa como arquitecto de e-commerce. Diseña una tienda en línea profesional y segura.
+
+=== NEGOCIO ===
+Marca: [NOMBRE]
+Productos: [TIPO DE PRODUCTOS]
+Mercado: [B2C / B2B / ambos] en [PAÍS]
+Moneda y pasarela: [COP / USD] con [Stripe / PayU / MercadoPago / Wompi]
+
+=== FUNCIONALIDADES ===
+1. Catálogo con categorías, búsqueda, filtros por precio/atributos y vista rápida.
+2. Ficha de producto: galería, variantes (talla/color), stock en tiempo real, productos relacionados.
+3. Carrito persistente y checkout en máximo 3 pasos.
+4. Gestión de pedidos con estados (pendiente, pagado, enviado, entregado).
+5. Panel de administración: productos, inventario, pedidos, clientes, reportes.
+6. Autenticación de clientes con recuperación de contraseña segura.
+
+=== SEGURIDAD OBLIGATORIA ===
+- Nunca almacenar datos de tarjetas: usar tokenización de la pasarela.
+- Validación de precios y stock SIEMPRE en el servidor (nunca confiar en el cliente).
+- Protección CSRF en checkout, rate limiting en login, hashing bcrypt/Argon2.
+- Webhooks de pago con verificación de firma.
+
+=== ENTREGABLES ===
+Modelo de datos (diagrama entidad-relación), arquitectura, código, flujo de pago documentado, tests del flujo crítico de compra y checklist de salida a producción.

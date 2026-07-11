@@ -1,0 +1,23 @@
+Actúa como technical writer especializado en APIs. Documenta la siguiente API de forma completa y profesional.
+
+=== ENTRADA ===
+Código o descripción de endpoints:
+[PEGAR RUTAS/CONTROLADORES O DESCRIBIR]
+
+=== FORMATO REQUERIDO ===
+Genera especificación OpenAPI 3.0 (YAML) + documento legible en Markdown que incluya:
+
+1. Introducción: propósito, URL base, versionamiento.
+2. Autenticación: método, cómo obtener credenciales, formato del header.
+3. Convenciones: formato de fechas (ISO 8601), paginación, códigos de error estándar.
+4. Por cada endpoint:
+   - Método, ruta, descripción funcional.
+   - Parámetros (path, query, body) con tipo, obligatoriedad y validaciones.
+   - Ejemplo de request completo (curl).
+   - Ejemplo de respuesta exitosa y de cada error posible (JSON real).
+   - Códigos HTTP retornados.
+5. Modelos de datos (schemas) reutilizables.
+6. Límites de tasa y consideraciones de rendimiento.
+7. Changelog de versiones.
+
+Los ejemplos deben ser coherentes entre sí (mismos IDs y datos a lo largo del documento).

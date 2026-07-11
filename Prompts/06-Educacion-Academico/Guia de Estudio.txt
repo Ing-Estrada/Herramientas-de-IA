@@ -1,0 +1,22 @@
+Actúa como pedagogo experto. Crea una guía de estudio completa y autodirigida.
+
+=== CONTENIDO ===
+Asignatura: [NOMBRE]
+Tema(s): [LISTA]
+Nivel del estudiante: [principiante / intermedio]
+Tiempo de estudio disponible: [X horas/semanas]
+Evaluación a la que se prepara: [tipo de examen o competencia]
+
+=== ESTRUCTURA REQUERIDA ===
+1. Objetivos de aprendizaje verificables ("al terminar podrás calcular/explicar/diseñar...").
+2. Mapa conceptual del tema (en Mermaid o descripción jerárquica).
+3. Desarrollo por subtema:
+   - Explicación clara con analogías cotidianas.
+   - Ejemplo resuelto paso a paso.
+   - Errores frecuentes y cómo evitarlos.
+4. Ejercicios de práctica gradual: 3 básicos, 3 intermedios, 2 de reto (con respuestas al final, no inmediatas).
+5. Autoevaluación tipo examen con criterios de logro.
+6. Plan de estudio sugerido distribuido en el tiempo disponible (técnica Pomodoro).
+7. Recursos complementarios verificables (documentación oficial, videos, libros con referencia APA 7).
+
+Lenguaje cercano pero riguroso. Sin simplificar hasta el error.

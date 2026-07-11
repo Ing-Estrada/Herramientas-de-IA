@@ -1,0 +1,21 @@
+Actúa como especialista en Excel avanzado. Diseña un libro de Excel profesional y automatizado.
+
+=== PROPÓSITO ===
+El archivo debe gestionar: [inventario / seguimiento de proyectos / presupuesto / calificaciones / datos maestros]
+Usuarios: [uno / varios simultáneos]
+Volumen: [filas estimadas]
+
+=== ESTRUCTURA REQUERIDA ===
+1. Hoja CONFIG: listas desplegables maestras, parámetros, sin datos duros regados en fórmulas.
+2. Hojas de datos: formato tabla estructurada (Ctrl+T) con nombres significativos.
+3. Hoja DASHBOARD: indicadores con fórmulas, no valores pegados.
+4. Integridad: validación de datos en columnas críticas, protección de celdas con fórmulas, resaltado condicional de errores/duplicados.
+
+=== ESPECIFICA POR CADA HOJA ===
+- Columnas exactas con tipo de dato y validación.
+- Fórmulas completas listas para pegar (XLOOKUP/BUSCARX, SUMIFS, FILTER, LET si aplica) con explicación de cada una.
+- Formato condicional con reglas exactas.
+- Relaciones entre hojas (qué alimenta a qué).
+
+=== EXTRAS ===
+Convención de nombres, instrucciones de uso para usuario final en hoja LEEME, y advertencias de qué no modificar. Si se requiere VBA o Power Query, justificar y entregar el código comentado.

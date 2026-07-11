@@ -1,0 +1,18 @@
+Actúa como arquitecto de sistemas distribuidos. Diseña un microservicio desacoplado con comunicación asíncrona.
+
+=== CONTEXTO ===
+Responsabilidad del servicio: [notificaciones / facturación / procesamiento de imágenes...]
+Broker de mensajería: [RabbitMQ / Kafka / MQTT / Redis Streams]
+Lenguaje: [Node.js / Python / Go]
+
+=== REQUISITOS ===
+1. Explica cuándo se justifica un microservicio vs. un monolito modular para este caso.
+2. Define contrato de mensajes (esquema, versionamiento de eventos).
+3. Implementa patrón de reintentos con backoff exponencial y dead letter queue.
+4. Garantiza idempotencia en el consumo de mensajes.
+5. Health checks (liveness/readiness) y métricas para observabilidad.
+6. Manejo de configuración por variables de entorno.
+7. Logs estructurados con correlation ID para trazabilidad entre servicios.
+
+=== ENTREGABLES ===
+Diagrama de arquitectura (Mermaid), código completo, docker-compose con el broker incluido, tests, y documento de decisiones de arquitectura (ADR) breve.

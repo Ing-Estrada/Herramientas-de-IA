@@ -1,0 +1,22 @@
+Actúa como revisor de código senior. Realiza una revisión exhaustiva del siguiente código.
+
+=== CÓDIGO A REVISAR ===
+Lenguaje/Framework: [ESPECIFICAR]
+Contexto: [qué hace y dónde se ejecuta]
+[PEGAR CÓDIGO]
+
+=== CRITERIOS DE REVISIÓN (en este orden) ===
+1. SEGURIDAD: inyecciones, secretos hardcodeados, validación de entradas, manejo de permisos.
+2. CORRECTITUD: bugs, casos límite no cubiertos, condiciones de carrera, manejo de errores.
+3. RENDIMIENTO: complejidad algorítmica, N+1, operaciones bloqueantes, fugas de memoria.
+4. MANTENIBILIDAD: SOLID, DRY, nombres, funciones demasiado largas, acoplamiento.
+5. TESTING: qué pruebas faltan para las rutas críticas.
+
+=== FORMATO DE SALIDA ===
+- Resumen ejecutivo (2-3 líneas).
+- Hallazgos clasificados por severidad: CRÍTICO / ALTO / MEDIO / BAJO.
+- Por cada hallazgo: línea o fragmento, explicación del riesgo, y código corregido propuesto.
+- Lo que está bien hecho (reconocer buenas prácticas existentes).
+- Veredicto: aprobar / aprobar con cambios / rechazar.
+
+Sé directo y honesto: prioriza los problemas reales sobre el estilo.

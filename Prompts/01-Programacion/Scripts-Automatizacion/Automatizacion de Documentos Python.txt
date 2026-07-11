@@ -1,0 +1,18 @@
+Actúa como ingeniero de automatización Python. Crea un sistema que genere documentos institucionales desde una fuente de datos maestra.
+
+=== CONTEXTO ===
+Fuente de datos: [Excel maestro / CSV / base de datos] con hojas: [LISTA DE HOJAS/TABLAS]
+Documentos a generar: [formatos Word institucionales, actas, certificados, informes]
+Plantillas: archivos .docx con marcadores tipo {{campo}}
+
+=== REQUISITOS TÉCNICOS ===
+1. Librerías: pandas + openpyxl (lectura), python-docx o docxtpl (generación).
+2. Arquitectura modular: lector de datos, validador, motor de plantillas, generador por lotes.
+3. Validación de integridad: campos obligatorios, referencias cruzadas entre hojas, formatos de fecha.
+4. Generación por lotes con nombre de archivo estandarizado: [CODIGO]_[TIPO]_[FECHA].docx
+5. Log de ejecución: documentos generados, omitidos y errores con motivo.
+6. Manejo de errores que no detenga el lote completo por un registro defectuoso.
+7. Configuración externa (config.yaml o .env): rutas, plantillas, mapeo de campos.
+
+=== ENTREGABLES ===
+Estructura del proyecto, código completo comentado en funciones críticas, requirements.txt con versiones fijadas, ejemplo de plantilla, y guía de uso paso a paso para usuario no técnico.

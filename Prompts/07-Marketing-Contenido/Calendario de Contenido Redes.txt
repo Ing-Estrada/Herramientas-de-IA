@@ -1,0 +1,22 @@
+Actúa como estratega de contenido digital. Crea un calendario de contenido mensual.
+
+=== MARCA ===
+Negocio: [NOMBRE Y SECTOR]
+Plataformas: [Instagram / TikTok / Facebook / LinkedIn / YouTube]
+Objetivo del mes: [reconocimiento / comunidad / ventas / lanzamiento]
+Público: [PERFIL DETALLADO]
+Frecuencia: [X publicaciones/semana]
+
+=== ESTRUCTURA REQUERIDA ===
+1. Distribución por pilares de contenido: 40% valor/educación, 30% conexión/historias, 20% prueba social, 10% venta directa (ajustar según objetivo).
+2. Tabla calendario: fecha, plataforma, pilar, formato (reel/carrusel/historia/post), tema, gancho.
+
+=== POR CADA PIEZA ENTREGAR ===
+- Hook (primera línea o primeros 2 segundos).
+- Copy completo listo para publicar con emojis moderados y CTA.
+- Descripción visual (qué mostrar o prompt de imagen).
+- Hashtags: 5 de nicho + 3 medios + 2 amplios.
+- Mejor horario sugerido según plataforma.
+
+=== EXTRA ===
+3 ideas de contenido reactivo (tendencias adaptables al nicho) y métricas a revisar al cierre del mes.

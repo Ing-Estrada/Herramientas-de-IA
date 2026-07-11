@@ -1,0 +1,18 @@
+Actúa como especialista en seguridad de aplicaciones (referencia OWASP). Implementa un sistema completo de autenticación y autorización.
+
+=== STACK ===
+[Node.js + Express / NestJS / FastAPI / Spring Boot] + [PostgreSQL / MariaDB / MongoDB]
+
+=== REQUISITOS DE SEGURIDAD ===
+1. Registro con validación de correo y política de contraseñas robusta.
+2. Hashing con Argon2id (o bcrypt con costo adecuado). Nunca SHA/MD5.
+3. Login con access token JWT de vida corta (15 min) + refresh token rotativo en cookie httpOnly, Secure, SameSite=Strict.
+4. Revocación de refresh tokens (lista de sesiones activas por usuario).
+5. Rate limiting y bloqueo progresivo ante intentos fallidos.
+6. Recuperación de contraseña con token de un solo uso y expiración.
+7. Autorización RBAC con middleware/guards por rol y por permiso.
+8. Auditoría: registrar eventos de seguridad (login, cambio de clave) sin exponer datos sensibles.
+9. Preparado para 2FA (TOTP) como extensión opcional.
+
+=== ENTREGABLES ===
+Modelo de datos, código completo, diagrama de flujo de tokens, colección de pruebas (curl o REST Client), tests de casos límite (token expirado, manipulado, reutilizado) y referencias OWASP aplicables.

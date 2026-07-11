@@ -1,0 +1,26 @@
+Actúa como diseñador de información. Crea el diseño de una infografía técnica profesional.
+
+=== CONTENIDO ===
+Tema: [TEMA]
+Datos clave a comunicar: [LISTA DE 4-7 DATOS/CONCEPTOS]
+Audiencia: [PERFIL]
+Formato: [vertical para redes / horizontal para presentación / póster académico]
+
+=== ESTRUCTURA REQUERIDA ===
+1. Jerarquía visual clara: título potente → dato principal → soporte → fuente.
+2. Flujo de lectura definido (Z o vertical descendente).
+3. Un solo mensaje central; todo lo demás lo apoya.
+4. Iconografía consistente (mismo estilo de trazo).
+5. Máximo 2 tipografías y 3 colores + neutros.
+6. Datos siempre con fuente citada al pie.
+
+=== PARA GENERACIÓN DE IMAGEN ===
+Clean professional infographic about [TEMA].
+Layout: [vertical/horizontal] with clear visual hierarchy.
+Style: flat design, consistent line icons, [COLOR PALETTE].
+Elements: header title, [N] data sections with icons, numbered process flow, footer with source.
+Typography: bold sans-serif headers, light body text.
+White space generous, corporate quality, no clutter.
+
+=== ENTREGABLE ADICIONAL ===
+Textos exactos de cada sección (títulos, cifras, descripciones de máximo 15 palabras).

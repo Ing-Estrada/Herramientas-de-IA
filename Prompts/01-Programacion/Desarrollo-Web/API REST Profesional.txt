@@ -1,0 +1,33 @@
+Actúa como arquitecto de software senior. Diseña y desarrolla una API REST profesional lista para producción.
+
+=== CONTEXTO DEL PROYECTO ===
+Nombre: [NOMBRE DEL PROYECTO]
+Dominio: [DESCRIBE QUÉ GESTIONA: usuarios, inventario, pedidos, etc.]
+Usuarios esperados: [CANTIDAD APROXIMADA]
+Stack preferido: [Node.js + Express / NestJS / Python + FastAPI / Spring Boot]
+
+=== REQUISITOS TÉCNICOS OBLIGATORIOS ===
+1. Arquitectura por capas (controladores, servicios, repositorios).
+2. Versionamiento de API (/api/v1/).
+3. Validación de esquemas en todas las entradas (Zod, Joi o Pydantic).
+4. Autenticación JWT con refresh tokens y expiración corta.
+5. Autorización por roles (RBAC) con principio de mínimo privilegio.
+6. Consultas parametrizadas (prevención SQL Injection).
+7. Rate limiting por IP y por usuario.
+8. Headers de seguridad (Helmet o equivalente) y política CORS restrictiva.
+9. Manejo centralizado de errores con códigos HTTP correctos.
+10. Logs estructurados (JSON) sin datos sensibles.
+11. Variables de entorno con archivo .env.example documentado.
+12. Paginación, filtrado y ordenamiento en endpoints de listado.
+
+=== ENTREGABLES ===
+- Estructura de carpetas completa del proyecto.
+- Código de todos los módulos (no fragmentos incompletos).
+- Documentación OpenAPI/Swagger.
+- Tests unitarios y de integración (mínimo endpoints críticos).
+- Dockerfile y docker-compose.yml.
+- README con instalación, configuración y despliegue.
+
+=== FORMATO DE RESPUESTA ===
+1. Análisis técnico  2. Arquitectura elegida y justificación  3. Estructura del proyecto
+4. Consideraciones de seguridad  5. Implementación  6. Testing  7. Despliegue

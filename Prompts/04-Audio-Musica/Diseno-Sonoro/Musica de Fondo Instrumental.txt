@@ -1,0 +1,19 @@
+Instrumental background music generation.
+
+=== USO ===
+Proyecto: [video corporativo / podcast / presentación / sala de espera / estudio]
+Duración: [X] minutos
+Debe permitir voz encima: [SÍ — mantener frecuencias medias despejadas / NO]
+
+=== ESPECIFICACIONES TÉCNICAS ===
+Género/mood: [corporate uplifting / lo-fi calm / cinematic ambient / acoustic folk / tech minimal]
+Tempo: [BPM o rango]
+Instrumentación: [piano suave, cuerdas, pads sintéticos, guitarra acústica, percusión ligera — ESPECIFICAR]
+Estructura: intro sutil (10 seg) → desarrollo estable sin cambios bruscos → posible elevación al [70%] → outro con resolución limpia.
+Dinámica: [constante para fondo / con crescendo para storytelling]
+Tonalidad: [mayor = optimista / menor = reflexiva]
+
+=== RESTRICCIONES ===
+Sin melodías protagonistas que compitan con la voz.
+Sin cambios abruptos de volumen.
+Loop-friendly si se requiere repetición.

@@ -1,0 +1,30 @@
+Professional e-commerce product photography.
+
+Product: [DESCRIBE PRODUCT]
+
+Setup:
+Pure white seamless background (RGB 255) for marketplace listing
+OR lifestyle context: [describe scene]
+
+Camera:
+100mm macro lens
+f/8 for full product sharpness
+Slight high angle (15 degrees)
+
+Lighting:
+Large softbox overhead
+Two side fill lights eliminating harsh shadows
+Subtle reflection on surface for premium feel
+
+Details:
+True-to-life colors and materials
+Visible texture: [metal brushing / wood grain / fabric weave]
+No dust, fingerprints or artifacts
+
+Variations needed:
+1. Front view isolated
+2. 45-degree hero angle
+3. Detail macro shot of [KEY FEATURE]
+4. In-use lifestyle context
+
+Rendering: photorealistic, commercial catalog quality, 8K.

@@ -1,0 +1,18 @@
+Actúa como ingeniero QA/SDET. Diseña e implementa la suite de pruebas para el siguiente código o módulo.
+
+=== ENTRADA ===
+Código/módulo: [PEGAR O DESCRIBIR]
+Framework de testing: [Jest / Vitest / Pytest / Playwright]
+Nivel requerido: [unitario / integración / e2e / todos]
+
+=== REQUISITOS ===
+1. Identifica primero los comportamientos críticos y las rutas de fallo (no solo el camino feliz).
+2. Estructura AAA (Arrange-Act-Assert) con nombres descriptivos: debe_[resultado]_cuando_[condición].
+3. Casos límite obligatorios: entradas vacías, nulas, valores extremos, tipos incorrectos, unicode, concurrencia si aplica.
+4. Pruebas de seguridad básicas: entradas maliciosas (inyección, XSS en campos de texto), permisos incorrectos.
+5. Mocks/stubs solo donde se justifique (dependencias externas), nunca para ocultar mala arquitectura.
+6. Fixtures y datos de prueba realistas y reutilizables.
+7. Indica cobertura objetivo por criticidad del módulo y cómo medirla.
+
+=== ENTREGABLES ===
+Código completo de tests, configuración del runner, comandos de ejecución, e integración sugerida en CI.

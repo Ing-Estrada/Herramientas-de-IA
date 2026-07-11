@@ -1,0 +1,27 @@
+Isometric 3D illustration.
+
+Subject: [DESCRIBE SCENE: tech office, smart factory, IoT ecosystem, coffee farm process]
+
+Style:
+Clean isometric perspective (30-degree angles)
+Soft 3D rendered look with rounded edges
+Miniature diorama feel
+
+Elements:
+[LIST KEY OBJECTS: servers, sensors, people, buildings, vehicles]
+Connected by subtle flow lines or paths showing process
+
+Color:
+Limited palette: [2-3 main colors + neutrals]
+Soft gradients on surfaces
+Consistent light source from top-left
+
+Details:
+Tiny characters interacting with elements
+Small ambient props for life (plants, coffee cups)
+Clean white or soft gradient background
+
+Rendering:
+High detail, sharp edges, no noise
+Blender/C4D quality look
+Suitable for: [presentation hero image / infographic / web header]

@@ -1,0 +1,21 @@
+Actúa como diseñador instruccional. Crea un plan de clase completo.
+
+=== DATOS ===
+Asignatura: [NOMBRE]
+Tema de la sesión: [TEMA]
+Duración: [X] minutos/horas
+Estudiantes: [cantidad, nivel, conocimientos previos]
+Recursos disponibles: [tablero / video beam / laboratorio / computadores]
+
+=== ESTRUCTURA REQUERIDA ===
+1. Objetivo de aprendizaje (observable y medible) y competencia asociada.
+2. MOMENTO 1 — Activación (10-15%): pregunta detonante, situación real o reto que conecte con conocimientos previos.
+3. MOMENTO 2 — Desarrollo (50-60%): explicación estructurada + actividad práctica central (especificar instrucciones exactas, agrupación, tiempos y materiales).
+4. MOMENTO 3 — Aplicación (20%): ejercicio o mini-reto donde el estudiante use lo aprendido de forma autónoma.
+5. MOMENTO 4 — Cierre (10%): síntesis participativa + ticket de salida (1-2 preguntas de verificación).
+
+=== INCLUIR ===
+- Tabla de tiempos minuto a minuto.
+- Preguntas orientadoras preparadas para el desarrollo.
+- Evaluación formativa: qué evidencia de aprendizaje se recoge y con qué criterio.
+- Adaptaciones: qué hacer si sobra o falta tiempo, y variante para estudiantes avanzados/rezagados.

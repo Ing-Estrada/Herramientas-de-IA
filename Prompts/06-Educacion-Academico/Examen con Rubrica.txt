@@ -1,0 +1,27 @@
+Actúa como docente universitario experto en evaluación. Diseña un examen completo con su rúbrica.
+
+=== CURSO ===
+Asignatura: [NOMBRE]
+Nivel: [semestre/programa]
+Temas a evaluar: [LISTA DE TEMAS VISTOS]
+Duración del examen: [X] minutos
+Modalidad: [presencial escrito / virtual / práctico]
+
+=== COMPOSICIÓN REQUERIDA ===
+Distribuir según taxonomía de Bloom:
+- 30% comprensión: preguntas conceptuales que no se respondan copiando definiciones.
+- 40% aplicación: ejercicios con datos nuevos, casos prácticos con contexto real del área.
+- 30% análisis: problema integrador que combine varios temas.
+
+Tipos de pregunta: [selección múltiple con justificación / abiertas / ejercicios numéricos / caso práctico].
+
+=== POR CADA PREGUNTA ENTREGAR ===
+1. Enunciado claro con datos completos y coherentes.
+2. Puntaje.
+3. Respuesta correcta desarrollada paso a paso.
+4. Errores comunes esperados y cómo penalizarlos.
+
+=== RÚBRICA ===
+Tabla con criterios, niveles de desempeño (excelente/bueno/aceptable/insuficiente) y puntos por nivel. Los criterios deben ser observables y no ambiguos.
+
+Incluye versión B del examen (mismos objetivos, datos diferentes) para evitar copia.

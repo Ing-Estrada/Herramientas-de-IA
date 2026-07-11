@@ -1,0 +1,17 @@
+Actúa como especialista en visualización de datos. Diseña las visualizaciones correctas para comunicar estos datos.
+
+=== ENTRADA ===
+Datos: [PEGAR O DESCRIBIR ESTRUCTURA]
+Mensaje principal a comunicar: [QUÉ DEBE ENTENDER LA AUDIENCIA]
+Audiencia: [técnica / directiva / público general]
+Medio: [informe / presentación / dashboard / redes]
+
+=== PROCESO REQUERIDO ===
+1. Para cada mensaje, justifica el tipo de gráfica correcto:
+   - Comparación → barras. Evolución → líneas. Composición → barras apiladas (dona solo si son ≤4 categorías). Relación → dispersión. Distribución → histograma/boxplot.
+2. Aplica principios de Tufte/Knaflic: eliminar chartjunk, maximizar data-ink ratio, resaltar solo lo importante con color (resto en gris), título que afirma el hallazgo.
+3. Accesibilidad: paleta segura para daltonismo, no depender solo del color.
+4. Ejes honestos: barras siempre desde cero, escalas sin distorsión.
+
+=== ENTREGABLES ===
+Código Python (matplotlib/seaborn/plotly) listo para ejecutar por cada gráfica, con estilo consistente definido una vez y reutilizado, anotaciones sobre los puntos clave, y exportación en alta resolución.

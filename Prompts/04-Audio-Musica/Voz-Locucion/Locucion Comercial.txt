@@ -1,0 +1,21 @@
+Guion y dirección de locución para anuncio comercial.
+
+=== PROYECTO ===
+Producto/servicio: [DESCRIBIR]
+Medio: [radio / video digital / cuña / IVR telefónico]
+Duración exacta: [15 / 20 / 30] segundos
+Público: [PERFIL]
+
+=== GUION REQUERIDO ===
+1. Escribe el guion palabra por palabra ajustado a la duración (velocidad estándar: 2.5 palabras/segundo).
+2. Estructura: gancho (3 seg) → problema/deseo → solución con marca → llamado a la acción con dato de contacto.
+3. Lenguaje hablado natural, frases cortas, sin tecnicismos innecesarios.
+
+=== DIRECCIÓN DE VOZ (para locutor o generación TTS) ===
+- Tipo de voz: [masculina/femenina, rango de edad percibido]
+- Tono: [cercano y cálido / enérgico / institucional / premium sobrio]
+- Ritmo: [pausado / dinámico] con pausas marcadas en el guion así: (pausa)
+- Palabras a enfatizar: subrayadas en el guion.
+- Emoción base: [confianza / entusiasmo / urgencia contenida]
+
+Entrega también: versión alternativa más corta y pronunciación fonética de nombres difíciles.

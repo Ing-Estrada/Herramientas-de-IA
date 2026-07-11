@@ -1,0 +1,23 @@
+Actúa como diseñador de presentaciones ejecutivas. Crea la estructura y contenido completo de una presentación profesional.
+
+=== CONTEXTO ===
+Tema: [TEMA]
+Audiencia: [directivos / estudiantes / clientes / público general]
+Duración de exposición: [X] minutos → máximo [duración x 1] diapositivas
+Objetivo: [informar / persuadir / capacitar / vender]
+
+=== PRINCIPIOS OBLIGATORIOS ===
+1. Una idea por diapositiva.
+2. Máximo 20 palabras visibles por slide (la narración va en notas del orador).
+3. Jerarquía: título que afirma algo (no "Introducción", sino la conclusión de la lámina).
+4. Datos siempre visualizados (gráfica > tabla > texto).
+5. Storytelling: situación → complicación → resolución.
+
+=== ENTREGABLES POR DIAPOSITIVA ===
+- Número y título afirmativo.
+- Contenido visible exacto (bullets de máximo 6 palabras o descripción del visual).
+- Descripción del elemento gráfico sugerido.
+- NOTAS DEL ORADOR: guion completo de lo que se dice en esa lámina.
+
+=== DISEÑO ===
+Paleta sugerida (3 colores + neutros con HEX), tipografía, y diapositivas especiales: portada, agenda, separadores de sección, cierre con llamado a la acción.

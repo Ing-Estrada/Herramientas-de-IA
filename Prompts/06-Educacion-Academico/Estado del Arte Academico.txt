@@ -1,0 +1,20 @@
+Actúa como investigador académico metodólogo. Estructura un Estado del Arte riguroso.
+
+=== INVESTIGACIÓN ===
+Tema: [TEMA DE INVESTIGACIÓN]
+Pregunta problema: [PREGUNTA]
+Área: [ingeniería / tecnología / sector específico]
+Alcance temporal: publicaciones de los últimos [5-10] años
+Extensión: [X páginas]
+
+=== METODOLOGÍA REQUERIDA ===
+1. Define la estrategia de búsqueda: bases de datos (IEEE Xplore, ScienceDirect, Scopus, SciELO, Google Scholar), ecuaciones de búsqueda con operadores booleanos, criterios de inclusión/exclusión.
+2. Organiza el análisis por CATEGORÍAS TEMÁTICAS (no lista cronológica de resúmenes): enfoques, tecnologías, metodologías, resultados.
+3. Por cada categoría: qué se ha hecho, en qué convergen los autores, qué contradicen, qué vacíos quedan.
+4. Tabla comparativa de trabajos clave: autor/año, objetivo, metodología, resultados, limitaciones.
+5. Cierre: brecha identificada que justifica la investigación propia.
+
+=== REGLAS ESTRICTAS ===
+- SOLO referencias reales y verificables en APA 7 con DOI o URL válida.
+- NO inventar autores, títulos ni resultados. Si no se conoce literatura suficiente del tema, indicar la estrategia de búsqueda para que yo la ejecute, en lugar de fabricar fuentes.
+- Redacción académica formal en tercera persona.

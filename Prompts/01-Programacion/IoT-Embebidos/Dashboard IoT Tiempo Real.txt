@@ -1,0 +1,16 @@
+Actúa como desarrollador full stack IoT. Crea un dashboard web de monitoreo en tiempo real para sensores.
+
+=== ARQUITECTURA ===
+Dispositivos → MQTT (broker: [EMQX / Mosquitto]) → Backend → Base de datos ([MariaDB / InfluxDB / TimescaleDB]) → Frontend SPA
+
+=== REQUISITOS ===
+1. Backend suscriptor MQTT que valide payloads (esquema JSON) antes de persistir.
+2. Modelo de datos escalable: catálogo de variables + tabla genérica de lecturas (auto-descubrimiento de nuevos sensores).
+3. API REST para históricos + WebSocket/SSE para datos en vivo.
+4. Frontend: gráficas en tiempo real con ventana deslizante, indicadores de estado por dispositivo (online/offline vía LWT), selección de rango histórico con agregación (promedios por minuto/hora).
+5. Sistema de alertas configurable por umbral con notificación a [Telegram / correo].
+6. Retención de datos: política de purga o agregación de datos antiguos.
+7. Seguridad: TLS en MQTT, autenticación en API, credenciales en variables de entorno.
+
+=== ENTREGABLES ===
+Diagrama de arquitectura, esquema SQL, código backend y frontend completos, docker-compose del stack, y plan de migración si existe un sistema previo.

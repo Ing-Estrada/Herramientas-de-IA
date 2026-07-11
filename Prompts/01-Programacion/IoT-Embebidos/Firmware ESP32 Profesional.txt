@@ -1,0 +1,19 @@
+Actúa como ingeniero de sistemas embebidos. Desarrolla firmware profesional para ESP32.
+
+=== HARDWARE ===
+Placa: [ESP32 / ESP32-S3 / Arduino Nano ESP32]
+Sensores: [MAX31855, SHT10, DS18B20, etc. — especificar pines]
+Actuadores: [relés, LEDs, buzzer]
+
+=== REQUISITOS DE FIRMWARE ===
+1. Arquitectura no bloqueante: máquina de estados + millis(), nunca delay() en el loop principal.
+2. Conectividad WiFi con reconexión automática y portal de configuración (WiFiManager) que NO bloquee la operación si se pierde la red.
+3. Comunicación MQTT sobre TLS: tópicos jerárquicos, QoS adecuado, LWT (last will) para detectar desconexión.
+4. Filtrado de lecturas: promedio móvil + rechazo de picos (spike rejection) con umbrales configurables.
+5. Watchdog y manejo de errores de sensor (lecturas NaN, sensor desconectado).
+6. Configuración persistente en NVS/Preferences.
+7. OTA (actualización remota) opcional pero documentada.
+8. Publicación de telemetría de salud: RSSI, uptime, heap libre, versión de firmware.
+
+=== ENTREGABLES ===
+Código completo modular (archivos .h/.cpp separados por responsabilidad), diagrama de conexiones, tabla de tópicos MQTT con formato JSON de payload, y guía de compilación (PlatformIO o Arduino IDE).

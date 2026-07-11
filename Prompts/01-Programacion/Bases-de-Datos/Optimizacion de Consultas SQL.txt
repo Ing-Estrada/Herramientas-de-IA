@@ -1,0 +1,21 @@
+Actúa como DBA especialista en rendimiento. Analiza y optimiza las siguientes consultas SQL.
+
+=== ENTRADA ===
+Motor: [PostgreSQL / MariaDB / MySQL / SQLite]
+Esquema (tablas e índices actuales):
+[PEGAR DDL O DESCRIBIR]
+
+Consulta(s) lenta(s):
+[PEGAR SQL]
+
+Síntoma: [tiempo actual, volumen de datos, frecuencia de ejecución]
+
+=== ANÁLISIS REQUERIDO ===
+1. Interpreta el plan de ejecución (EXPLAIN/EXPLAIN ANALYZE) e indica cómo obtenerlo.
+2. Identifica: full scans innecesarios, índices faltantes, funciones sobre columnas indexadas, subconsultas correlacionadas, N+1, SELECT *.
+3. Propón la consulta reescrita y los índices exactos (CREATE INDEX) con justificación.
+4. Advierte el costo de cada índice en escrituras y almacenamiento.
+5. Sugiere alternativas estructurales si aplica: particionamiento, vistas materializadas, caché.
+6. Entrega comparativa esperada antes/después y cómo medirla.
+
+Nunca propongas cambios que rompan la integridad referencial sin advertirlo explícitamente.

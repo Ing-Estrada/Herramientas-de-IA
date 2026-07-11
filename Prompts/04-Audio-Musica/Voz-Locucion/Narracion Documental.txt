@@ -1,0 +1,20 @@
+Guion de narración estilo documental.
+
+=== CONTENIDO ===
+Tema: [TEMA DEL DOCUMENTAL/VIDEO]
+Duración de narración: [X] minutos
+Estilo de referencia: [documental de naturaleza / documental histórico / marca personal]
+
+=== REQUISITOS DEL GUION ===
+1. Apertura evocadora: situar al espectador en tiempo y lugar con lenguaje sensorial.
+2. Narrativa con arco: pregunta inicial → exploración → revelación → reflexión final.
+3. Frases con ritmo variable: cortas para impacto, largas para inmersión.
+4. Datos verificables integrados naturalmente (indicar fuente de cada dato entre corchetes).
+5. Silencios estratégicos marcados: (silencio 3 seg — dejar respirar la imagen).
+
+=== DIRECCIÓN DE VOZ ===
+Voz: [grave y cálida / clara y curiosa]
+Ritmo: pausado, contemplativo, autoridad serena.
+Sin dramatismo artificial: la fuerza está en el contenido.
+
+Entrega el guion con marcas de tiempo estimadas por párrafo y notas de intención emocional por sección.

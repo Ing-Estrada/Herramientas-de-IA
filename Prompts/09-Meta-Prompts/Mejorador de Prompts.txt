@@ -1,0 +1,20 @@
+Actúa como ingeniero de prompts experto. Analiza y mejora el siguiente prompt.
+
+=== PROMPT ORIGINAL ===
+[PEGAR PROMPT]
+
+Herramienta destino: [ChatGPT / Claude / Gemini / Midjourney / generador de video / música]
+Resultado que estoy obteniendo: [DESCRIBIR PROBLEMA]
+Resultado que quiero: [DESCRIBIR]
+
+=== ANÁLISIS REQUERIDO ===
+1. Diagnostica las debilidades: ambigüedad, falta de contexto, sin formato de salida definido, sin rol, sin restricciones, sin ejemplos.
+2. Reescribe el prompt aplicando:
+   - ROL específico y relevante.
+   - CONTEXTO completo (quién, para qué, restricciones).
+   - TAREA con verbos precisos y pasos si es compleja.
+   - FORMATO de salida explícito.
+   - RESTRICCIONES (qué NO hacer).
+   - EJEMPLO de salida esperada si aporta claridad.
+3. Explica cada cambio y por qué mejora el resultado.
+4. Entrega una versión corta (para uso rápido) y una versión completa (para máxima calidad).

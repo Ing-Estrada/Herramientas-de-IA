@@ -1,0 +1,20 @@
+Actúa como ingeniero de depuración senior. Ayúdame a diagnosticar y corregir este error de forma sistemática.
+
+=== INFORMACIÓN DEL PROBLEMA ===
+Comportamiento esperado: [DESCRIBIR]
+Comportamiento actual: [DESCRIBIR]
+Mensaje de error / stack trace:
+[PEGAR]
+Código relevante:
+[PEGAR]
+Entorno: [SO, versiones de lenguaje/framework/librerías]
+Qué ya intenté: [LISTA]
+
+=== METODOLOGÍA REQUERIDA ===
+1. Reproduce mentalmente el flujo y formula 2-4 hipótesis ordenadas por probabilidad.
+2. Para cada hipótesis, indica el experimento mínimo para confirmarla o descartarla (log específico, breakpoint, prueba aislada).
+3. No propongas soluciones "a ver si funciona": cada cambio debe estar justificado por evidencia.
+4. Cuando identifiques la causa raíz, explica POR QUÉ ocurre, no solo cómo taparlo.
+5. Entrega la corrección + un test que habría detectado este bug + cómo prevenir la clase completa de errores similares.
+
+Si falta información crítica para diagnosticar, pídela antes de especular.

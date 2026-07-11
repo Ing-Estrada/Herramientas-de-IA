@@ -1,0 +1,21 @@
+Vertical short-form video (9:16) optimized for [TikTok / Instagram Reels / YouTube Shorts].
+
+=== CONTENIDO ===
+Tema/producto: [DESCRIBIR]
+Objetivo: [alcance / ventas / educar]
+Duración: [15 / 30 / 60] segundos
+
+=== ESTRUCTURA DE RETENCIÓN ===
+0-2 seg: HOOK visual + texto en pantalla que detenga el scroll (movimiento, pregunta, resultado final adelantado).
+2-5 seg: contexto mínimo, directo al valor.
+Desarrollo: cortes cada 1.5-3 segundos, cambio de plano o zoom en cada corte.
+Final: loop natural hacia el inicio o CTA claro.
+
+=== ESPECIFICACIONES TÉCNICAS ===
+- Formato 9:16, zona segura: texto centrado, lejos de UI de la app.
+- Subtítulos quemados palabra por palabra (85% se ve sin audio).
+- Texto en pantalla: máximo 6 palabras por frase.
+- Música trending o audio original según objetivo.
+
+=== ENTREGABLES ===
+Guion plano a plano con tiempos, textos en pantalla exactos, indicaciones de transición, copy del caption con hashtags relevantes al nicho, y 3 variantes de hook para A/B testing.

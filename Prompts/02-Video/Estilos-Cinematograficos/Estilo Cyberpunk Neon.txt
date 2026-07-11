@@ -1,0 +1,31 @@
+Cyberpunk cinematic sequence.
+
+Rain-soaked megacity street at night.
+Towering holographic advertisements.
+Neon reflections on wet asphalt.
+Dense atmosphere with steam rising from street vents.
+
+Subject:
+[DESCRIBE SUBJECT/ACTION]
+
+Camera:
+Anamorphic lens, 40mm
+Low angle tracking shot
+Shallow depth of field
+
+Lighting:
+Neon practicals (magenta, cyan, electric blue)
+Hard rim light
+Volumetric fog
+
+Motion:
+Slow push-in
+Handheld micro-shake for tension
+24 fps, motion blur enabled
+
+Color grade:
+Teal and magenta split toning
+Crushed blacks
+High contrast, cinematic LUT
+
+Style references: Blade Runner 2049, Ghost in the Shell.

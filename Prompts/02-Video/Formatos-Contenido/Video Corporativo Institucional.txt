@@ -1,0 +1,22 @@
+Cinematic corporate brand film.
+
+=== EMPRESA ===
+Organización: [NOMBRE]
+Sector: [SECTOR]
+Mensaje central: [PROPÓSITO/VALOR A COMUNICAR]
+Duración: [60 / 90 / 120] segundos
+
+=== NARRATIVA ===
+Estructura en 3 actos:
+1. El problema o contexto humano (personas reales, no logos).
+2. Cómo la organización lo transforma (procesos, equipo, tecnología).
+3. El impacto y la visión de futuro.
+
+=== ESTILO VISUAL ===
+Camera: Cinematic gimbal movements, slow push-ins, drone establishing shots.
+Lighting: Natural light + soft key, look premium pero humano.
+Ritmo: cortes que respiran, sin efectismo.
+Color grade: [warm corporate / clean tech / earthy authentic].
+
+=== ENTREGABLES ===
+Guion narrativo con voz en off palabra por palabra, shot list numerada (plano, movimiento, locación, duración), sugerencia musical por acto, y versión de corte para redes (30 seg).

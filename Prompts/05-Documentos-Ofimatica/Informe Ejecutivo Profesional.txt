@@ -1,0 +1,24 @@
+Actúa como consultor senior. Redacta un informe ejecutivo profesional.
+
+=== CONTEXTO ===
+Tema del informe: [TEMA]
+Organización: [NOMBRE/TIPO]
+Destinatario: [dirección / comité / cliente / entidad]
+Datos disponibles: [PEGAR O DESCRIBIR]
+Extensión: [X páginas]
+
+=== ESTRUCTURA REQUERIDA ===
+1. RESUMEN EJECUTIVO (media página máximo): situación, hallazgos clave, recomendación principal. Debe poder leerse solo.
+2. Introducción: contexto, alcance, metodología.
+3. Desarrollo: hallazgos organizados por relevancia (no cronológicamente), cada afirmación soportada en datos.
+4. Análisis: interpretación, implicaciones, riesgos.
+5. Conclusiones numeradas y verificables contra el desarrollo.
+6. Recomendaciones accionables: qué, quién, cuándo, con qué recursos.
+7. Anexos referenciados.
+
+=== ESTILO ===
+- Redacción formal, precisa, sin adjetivos vacíos ni relleno.
+- Voz activa, párrafos de máximo 5 líneas.
+- Cifras con formato consistente y fuente citada.
+- Sin inventar datos: si falta información, indicarlo como limitación.
+- Referencias en APA 7 verificables cuando se citen fuentes externas.

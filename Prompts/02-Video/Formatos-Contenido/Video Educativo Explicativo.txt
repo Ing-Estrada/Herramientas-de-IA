@@ -1,0 +1,20 @@
+Actúa como director de contenido educativo. Genera el guion técnico completo para un video explicativo.
+
+=== CONTENIDO ===
+Tema: [TEMA A EXPLICAR]
+Audiencia: [estudiantes universitarios / público general / técnicos]
+Duración objetivo: [3-5 / 8-10] minutos
+Plataforma: [YouTube / aula virtual / redes]
+
+=== ESTRUCTURA REQUERIDA ===
+1. GANCHO (0-15 seg): pregunta o dato que genere curiosidad inmediata.
+2. PROMESA (15-30 seg): qué va a aprender el espectador exactamente.
+3. DESARROLLO: máximo 3 ideas centrales, cada una con ejemplo concreto o analogía visual.
+4. RECAPITULACIÓN: resumen en 3 frases.
+5. LLAMADO A LA ACCIÓN.
+
+=== FORMATO DE ENTREGA (tabla de dos columnas) ===
+Columna AUDIO: narración palabra por palabra, tono conversacional, frases cortas.
+Columna VIDEO: descripción de cada plano, gráficos en pantalla, textos de apoyo, b-roll sugerido.
+
+Incluye: momentos de pausa, cambios de ritmo cada 30-45 segundos para retener atención, y sugerencia de miniatura + 3 opciones de título.

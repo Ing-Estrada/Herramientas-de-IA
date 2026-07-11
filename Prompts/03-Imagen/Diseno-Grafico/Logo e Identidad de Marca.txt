@@ -1,0 +1,23 @@
+Actúa como director de branding. Diseña el concepto de logo e identidad visual.
+
+=== MARCA ===
+Nombre: [NOMBRE]
+Sector: [SECTOR]
+Personalidad: [3 adjetivos: ej. artesanal, confiable, moderna]
+Público: [DESCRIBIR]
+Diferenciador: [QUÉ LA HACE ÚNICA]
+
+=== PARA GENERACIÓN DE IMAGEN ===
+Minimal vector logo design for "[NOMBRE]".
+Style: [flat minimalist / geometric / hand-crafted / tech modern]
+Symbol concept: [ELEMENTO VISUAL CENTRAL]
+Typography: [sans-serif geométrica / serif elegante / script artesanal]
+Color palette: máximo 3 colores — primary [HEX], secondary [HEX], accent [HEX]
+White background, centered composition, scalable design, no complex gradients, no photorealistic elements.
+
+=== ENTREGABLES ADICIONALES (texto) ===
+1. Justificación conceptual del símbolo.
+2. Paleta completa con códigos HEX y uso de cada color.
+3. Tipografías recomendadas (Google Fonts) para títulos y cuerpo.
+4. Aplicaciones: variante horizontal, vertical, isotipo solo, versión monocromática.
+5. Qué NO hacer con el logo (usos incorrectos).

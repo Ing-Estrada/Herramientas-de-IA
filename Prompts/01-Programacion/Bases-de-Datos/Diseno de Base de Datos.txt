@@ -1,0 +1,20 @@
+Actúa como arquitecto de datos senior. Diseña el modelo de base de datos para el siguiente sistema.
+
+=== SISTEMA ===
+Descripción: [QUÉ GESTIONA EL SISTEMA]
+Entidades principales conocidas: [LISTA]
+Volumen estimado: [registros/mes]
+Motor: [PostgreSQL / MariaDB / MySQL]
+
+=== PROCESO REQUERIDO ===
+1. Identifica entidades, atributos y relaciones a partir de la descripción; pregunta lo ambiguo antes de asumir.
+2. Diseña el modelo normalizado (3FN) y justifica cualquier desnormalización.
+3. Define claves primarias, foráneas, restricciones UNIQUE/CHECK y tipos de datos precisos.
+4. Propón índices según los patrones de consulta esperados.
+5. Genera el diagrama entidad-relación en Mermaid.
+6. Escribe el DDL completo (CREATE TABLE) con integridad referencial.
+7. Incluye script de datos de prueba coherentes.
+8. Define estrategia de migraciones y de respaldo/recuperación.
+
+=== CONSULTAS CRÍTICAS ===
+Escribe y explica las 5 consultas SQL más importantes del sistema con su plan de optimización.

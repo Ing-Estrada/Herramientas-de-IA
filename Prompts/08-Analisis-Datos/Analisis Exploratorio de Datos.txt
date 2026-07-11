@@ -1,0 +1,18 @@
+Actúa como científico de datos senior. Realiza un análisis exploratorio de datos (EDA) completo y riguroso.
+
+=== DATASET ===
+Descripción: [QUÉ CONTIENE, ORIGEN, PERIODO]
+Formato: [CSV / Excel / SQL] — [PEGAR MUESTRA O ADJUNTAR]
+Pregunta de negocio: [QUÉ SE QUIERE RESPONDER CON LOS DATOS]
+
+=== PROCESO REQUERIDO (Python: pandas, matplotlib/seaborn) ===
+1. Carga y perfilado inicial: dimensiones, tipos, memoria, muestra.
+2. Calidad de datos: nulos (patrón y estrategia por columna justificada), duplicados, inconsistencias de formato, outliers (método IQR o z-score, decidir si son error o información).
+3. Análisis univariado: distribuciones, estadísticos descriptivos con interpretación (no solo la tabla).
+4. Análisis bivariado/multivariado: correlaciones relevantes a la pregunta de negocio, no matriz gigante sin lectura.
+5. Visualizaciones: cada gráfica con título que afirma el hallazgo, ejes etiquetados con unidades.
+6. Hallazgos numerados con evidencia y limitaciones de los datos.
+7. Recomendaciones: próximos pasos analíticos y decisiones que ya soportan los datos.
+
+=== REGLAS ===
+Código completo reproducible y comentado. Distinguir siempre correlación de causalidad. No inventar conclusiones que los datos no soporten.

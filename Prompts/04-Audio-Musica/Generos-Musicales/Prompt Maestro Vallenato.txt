@@ -1,0 +1,18 @@
+Ayúdame a escribir una canción de vallenato tradicional en compás de 4/4 (aire de [paseo / merengue vallenato / son / puya]).
+
+Quiero que sea muy poética, con narrativa costumbrista y contenido emocional profundo.
+
+El tema debe centrarse en [TEMA: el terruño, un amor, la vida del campo, el café del Huila], destacando [ELEMENTOS: paisaje, personajes, tradiciones].
+
+Estructura requerida:
+- Introducción instrumental sugerida (acordeón protagonista).
+- Estrofas narrativas claras que cuenten una historia con inicio, desarrollo y desenlace.
+- Coro memorable y repetible.
+- Uso exclusivo de rimas consonantes.
+
+Instrumentación técnica para el prompt de generación:
+Acordeón diatónico como voz líder, caja vallenata, guacharaca, bajo eléctrico discreto, guitarra acompañante.
+Tempo: [90-110] BPM.
+Voz [masculina/femenina] con sentimiento y fraseo vallenato auténtico.
+
+Que tenga alma, sabor de tierra y que cuente una historia que la gente sienta suya.

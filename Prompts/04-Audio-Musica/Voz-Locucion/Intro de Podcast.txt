@@ -1,0 +1,17 @@
+Actúa como productor de podcast. Crea el paquete de apertura completo para un podcast.
+
+=== PODCAST ===
+Nombre: [NOMBRE]
+Tema: [DE QUÉ TRATA]
+Público: [PERFIL DEL OYENTE]
+Tono del show: [conversacional / educativo / entrevistas / narrativo]
+Duración de la intro: [10-20] segundos
+
+=== ENTREGABLES ===
+1. GUION DE INTRO: texto exacto de bienvenida que comunique en una frase de qué trata y para quién es. Debe funcionar episodio tras episodio sin sonar repetitivo.
+2. DIRECCIÓN DE VOZ: tipo de voz, energía, ritmo.
+3. PROMPT DE MÚSICA DE INTRO: género, tempo, instrumentación, evolución (build-up hacia la voz), y punto exacto donde la música baja para dar paso a la voz (ducking).
+4. GUION DE OUTRO: despedida + llamado a la acción (suscripción, siguiente episodio).
+5. CORTINILLAS: 2-3 transiciones sonoras breves para cambios de sección.
+
+Coherencia sonora total entre intro, cortinillas y outro (misma paleta instrumental).

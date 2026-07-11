@@ -1,0 +1,23 @@
+Actúa como especialista en email marketing. Diseña una secuencia automatizada completa.
+
+=== CONTEXTO ===
+Negocio: [NOMBRE Y SECTOR]
+Tipo de secuencia: [bienvenida / nutrición / carrito abandonado / lanzamiento / reactivación]
+Origen del suscriptor: [lead magnet / compra / registro]
+Objetivo final: [primera compra / agendar llamada / recompra]
+Número de correos: [5-7]
+
+=== POR CADA EMAIL ENTREGAR ===
+1. Día de envío relativo (Día 0, Día 2...) y objetivo del correo.
+2. ASUNTO: 3 opciones (máx. 45 caracteres) + preheader complementario.
+3. Cuerpo completo: apertura que conecta, un solo mensaje central, historia o valor concreto, CTA único y claro.
+4. Longitud: [corto conversacional / medio] según etapa.
+
+=== REGLAS ===
+- Tono humano y personal (de una persona, no de "el equipo").
+- Un CTA por correo, sin competir.
+- Valor antes de pedir: los primeros correos dan, los últimos piden.
+- Condiciones de salida de la secuencia (si compra, sale).
+- Sin prácticas spam: mayúsculas excesivas, urgencia falsa, asuntos engañosos.
+
+Incluye métrica objetivo por correo (apertura/clic) y qué probar en A/B.

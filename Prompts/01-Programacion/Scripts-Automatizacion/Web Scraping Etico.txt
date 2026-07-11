@@ -1,0 +1,18 @@
+Actúa como ingeniero de datos. Desarrolla un extractor de datos web ético y robusto.
+
+=== CONTEXTO ===
+Sitio objetivo: [URL] (verificar robots.txt y términos de uso antes de extraer)
+Datos requeridos: [CAMPOS A EXTRAER]
+Frecuencia: [una vez / diaria / semanal]
+
+=== REQUISITOS ===
+1. Respetar robots.txt, aplicar delays entre peticiones y User-Agent identificable.
+2. Priorizar API oficial o feeds si existen; scraping solo como último recurso.
+3. Stack: requests + BeautifulSoup (HTML estático) o Playwright (contenido dinámico).
+4. Reintentos con backoff ante errores 429/5xx.
+5. Parseo defensivo: no romper si cambia un selector; reportar campos faltantes.
+6. Almacenamiento en [CSV / SQLite / PostgreSQL] con esquema definido y deduplicación.
+7. Logs estructurados y resumen final de ejecución.
+
+=== ENTREGABLES ===
+Código modular, configuración externa de selectores, requirements.txt, y nota de cumplimiento legal/ético del caso.

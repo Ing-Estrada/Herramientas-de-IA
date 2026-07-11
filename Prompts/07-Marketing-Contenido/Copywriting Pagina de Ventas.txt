@@ -1,0 +1,23 @@
+Actúa como copywriter de respuesta directa. Escribe el copy completo de una página de ventas.
+
+=== OFERTA ===
+Producto/servicio: [DESCRIBIR]
+Precio: [VALOR]
+Cliente ideal: [quién es, qué le duele, qué desea, qué ha intentado antes]
+Diferenciador: [POR QUÉ ELEGIRTE]
+Prueba disponible: [testimonios / casos / cifras / garantía]
+
+=== ESTRUCTURA (framework PAS + AIDA) ===
+1. HEADLINE: promesa específica y creíble (3 opciones para elegir).
+2. Subheadline que califica al lector correcto.
+3. PROBLEMA: describir su situación con sus propias palabras (que se sienta entendido).
+4. AGITACIÓN: costo de no resolverlo (sin catastrofismo falso).
+5. SOLUCIÓN: presentación del producto como puente, no como héroe.
+6. BENEFICIOS traducidos (característica → qué gana el cliente).
+7. PRUEBA SOCIAL: dónde insertar testimonios y cómo pedirlos si no existen.
+8. OFERTA: desglose de valor, precio, garantía que elimine el riesgo.
+9. FAQ: las 5 objeciones reales más probables respondidas con honestidad.
+10. CTA repetido con verbo de acción específico.
+
+=== REGLAS ===
+Claridad sobre creatividad. Sin promesas que el producto no cumpla. Párrafos de 1-3 líneas. Lenguaje del cliente, no jerga interna.

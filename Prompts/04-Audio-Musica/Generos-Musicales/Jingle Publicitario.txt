@@ -1,0 +1,20 @@
+Actúa como compositor publicitario. Crea un jingle memorable para:
+
+=== MARCA ===
+Empresa/producto: [NOMBRE]
+Sector: [SECTOR]
+Mensaje clave: [BENEFICIO PRINCIPAL EN UNA FRASE]
+Eslogan existente: [SI HAY]
+Duración: [10 / 20 / 30] segundos
+
+=== REQUISITOS CREATIVOS ===
+1. El nombre de la marca debe sonar mínimo 2 veces.
+2. Melodía "pegajosa": máximo 5 notas en el motivo principal, fácil de tararear.
+3. Letra: máximo [15-30] palabras, rima consonante, beneficio claro.
+4. Género musical acorde al público: [ESPECIFICAR O PEDIR OPCIONES].
+
+=== ENTREGABLES ===
+1. Letra completa con sílabas acentuadas marcadas.
+2. Prompt técnico de generación musical: género, tempo (BPM), instrumentación, tipo de voz, energía.
+3. Versión corta (5 seg) solo con marca + motivo para cierre de spots.
+4. Dos variantes de estilo para elegir.

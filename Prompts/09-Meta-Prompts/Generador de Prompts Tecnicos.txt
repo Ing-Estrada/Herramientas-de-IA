@@ -1,0 +1,18 @@
+Actúa como arquitecto de prompts. Voy a describirte una necesidad y tú construirás el prompt técnico profesional para resolverla.
+
+=== MI NECESIDAD ===
+Quiero lograr: [DESCRIBIR OBJETIVO EN LENGUAJE NATURAL]
+Con la herramienta: [IA de texto / imagen / video / música / código]
+Nivel de detalle que manejo del tema: [experto / intermedio / ninguno]
+
+=== TU PROCESO ===
+1. Hazme máximo 5 preguntas clave SOLO si falta información crítica (contexto, audiencia, formato, restricciones, ejemplos de referencia). Si la necesidad está clara, procede directo.
+2. Construye el prompt con estructura profesional:
+   - Rol experto asignado a la IA.
+   - Contexto completo en secciones delimitadas (=== SECCIÓN ===).
+   - Tarea desglosada en pasos numerados.
+   - Especificaciones técnicas del formato de salida.
+   - Restricciones explícitas y criterios de calidad.
+   - Placeholders [ENTRE CORCHETES] para las partes variables reutilizables.
+3. Entrega el prompt en un bloque de código para copiar fácil.
+4. Añade una nota de uso: qué modificar según el caso y qué variables probar si el resultado no convence.

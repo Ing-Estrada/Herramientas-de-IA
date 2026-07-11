@@ -1,0 +1,26 @@
+Actúa como desarrollador full stack senior especializado en interfaces de datos. Crea un dashboard administrativo profesional.
+
+=== CONTEXTO ===
+Sistema: [NOMBRE DEL SISTEMA]
+Datos a visualizar: [KPIs, ventas, sensores, usuarios, inventario...]
+Usuarios del dashboard: [administradores / gerentes / técnicos]
+Stack: [React + TailwindCSS / Next.js / Vue 3] con TypeScript
+
+=== MÓDULOS REQUERIDOS ===
+1. Layout con sidebar colapsable, header con perfil de usuario y breadcrumbs.
+2. Tarjetas de KPIs con variación porcentual vs. periodo anterior.
+3. Gráficas interactivas (líneas, barras, dona) con [Recharts / Chart.js].
+4. Tabla de datos con búsqueda, filtros, ordenamiento y paginación del lado del servidor.
+5. Formularios CRUD con validación en tiempo real y mensajes de error claros.
+6. Modo claro/oscuro persistente.
+7. Diseño responsive (móvil, tablet, escritorio).
+
+=== ESTÁNDARES DE CALIDAD ===
+- Componentes reutilizables y tipados.
+- Estados de carga (skeletons), error y vacío en cada vista.
+- Accesibilidad WCAG: contraste, navegación por teclado, aria-labels.
+- Lazy loading de rutas y memorización donde aporte rendimiento.
+- No almacenar tokens sensibles en localStorage si existe alternativa (cookies httpOnly).
+
+=== ENTREGABLES ===
+Estructura del proyecto, código completo por componente, datos de ejemplo (mock API), y guía de conexión con backend real.
